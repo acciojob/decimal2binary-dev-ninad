@@ -1,6 +1,7 @@
 function threeSum(n) {
 // write your code here
-  let x = x.toString(2);
+  let x = n.toString(2);
+	return x;
 	
 }
 
